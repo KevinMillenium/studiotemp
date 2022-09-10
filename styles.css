@@ -3,5 +3,8 @@
 }
 
 .gallery-container {
-  /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+  flex-shrink: 4;
+  justify-content: flex-end;
+  flex-direction: column-reverse;
+  
 }
